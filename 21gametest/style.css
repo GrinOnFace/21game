@@ -1,0 +1,95 @@
+#cardListone img{
+    width: 150px;
+  }
+  
+  ul li{
+    display:inline-block;
+    width: 10%;
+    margin:0;
+    padding:0;
+  }
+  
+  p{
+    color:blue
+  }
+  
+  #sumDisplayone{
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    background-color: bisque;
+    margin-bottom: 40px;
+    border-radius: 25px;
+  }
+  
+  #drawCardButtonone{
+    border: none;
+    background-color: bisque;
+    border-radius: 25px;
+    font-size: 19px;
+    padding: 10px;
+  }
+  
+  #myButton1{
+    border: none;
+    background-color: bisque;
+    border-radius: 10px;
+    font-size: 22px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+  
+  #myButton2{
+    border: none;
+    background-color: bisque;
+    border-radius: 10px;
+    font-size: 22px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+  
+  #cardListtwo img{
+    width: 150px;
+  }
+  
+  #sumDisplaytwo{
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    background-color: bisque;
+    margin-bottom: 40px;
+    border-radius: 25px;
+  }
+  
+  #drawCardButtontwo{
+    border: none;
+    background-color: bisque;
+    border-radius: 25px;
+    font-size: 19px;
+    padding: 10px;
+  }
+  
+  #gameover{
+    border: none;
+    background-color: bisque;
+    border-radius: 25px;
+    font-size: 19px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .name{
+    width: 300px;
+    border-radius: 30px;
+    height: 30px;
+  }
